@@ -1,0 +1,23 @@
+{
+  "name": "@xuwei4516/union-pay",
+  "version": "1.0.2",
+  "description": "适用第三方接入银联商务POS通插件C扫B业务的开发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xuwei5616/union-pay.git"
+  },
+  "keywords": [
+    "union",
+    "pay"
+  ],
+  "author": "18766212342@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "crypto": "^1.0.1"
+  }
+}
