@@ -1,5 +1,5 @@
 
-Install with:
+## Install with:
 
     npm install -s @xuwei4516/union-pay
 
